@@ -9,7 +9,7 @@ const readerBar = require('henry-reader-bar')
 const readingTime = require('henry-reading-time')
 
 const mdOptions = {
-  html: true,
+  html: false,
   breaks: true,
   linkify: true,
   typographer: true,
